@@ -1,0 +1,12 @@
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.AssemblyReference.cache
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\ProjetosPessoais\webApi\MinhaApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
